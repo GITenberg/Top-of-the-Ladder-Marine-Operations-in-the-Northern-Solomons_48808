@@ -1,0 +1,24 @@
+_repo: Top-of-the-Ladder-Marine-Operations-in-the-Northern-Solomons_48808
+creator:
+  author:
+    agent_name: Chapin, John C.
+    gutenberg_agent_id: '44977'
+    url: http://www.gutenberg.org/2009/agents/44977
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2015-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48808'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Marines in World War II, Commemorative Series
+subjects:
+- !lcc 'D731'
+- !lcsh 'United States. Marine Corps -- History -- World War, 1939-1945'
+- !lcsh 'Solomon Islands -- History, Military'
+- !lcsh 'World War, 1939-1945 -- Campaigns -- Solomon Islands'
+title: 'Top of the Ladder: Marine Operations in the Northern Solomons'
+url: http://www.gutenberg.org/ebooks/48808
